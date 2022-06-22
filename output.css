@@ -1,0 +1,12 @@
+/* @tailwind base; */
+
+.alert {
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 242 242 / var(--tw-bg-opacity));
+  &_title {
+    --tw-bg-opacity: 1;
+    background-color: rgb(241 245 249 / var(--tw-bg-opacity))
+  }
+}
+
+/* @tailwind utilities; */
